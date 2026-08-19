@@ -6,10 +6,6 @@ TalentBridge is a full-stack recruitment platform designed to connect job seeker
 
 https://talent-bridge-portal.vercel.app
 
-## 📂 GitHub Repository
-
-https://github.com/ashoksamota0/TalentBridge
-
 ## ✨ Features
 
 ### Candidate Features
