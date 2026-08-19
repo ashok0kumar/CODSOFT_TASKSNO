@@ -49,12 +49,6 @@ https://talent-bridge-portal.vercel.app
 
 ## 🔧 Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/ashoksamota0/TalentBridge.git
-```
-
 ### Install Dependencies
 
 Frontend:
