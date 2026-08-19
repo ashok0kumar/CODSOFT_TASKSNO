@@ -196,9 +196,4 @@ Contributions are welcome! Please fork the repository and submit pull requests. 
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any questions or inquiries, please contact [vishalverma9572@gamail.com].
-or Generate Issues.
-
 ---
